@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 1,
+        "FirstName": "Prince",
+        "LastName": "Sharma",
+        "Place": "Jamshedpur"
+    },
+    {
+        "ID": 2,
+        "FirstName": "Krushna",
+        "LastName": "Jena",
+        "Place": "Kolkata"
+    },
+    {
+        "ID": 3,
+        "FirstName": "Avik",
+        "LastName": "Singha",
+        "Place": "Kolkata"
+    },
+    {
+        "ID": 4,
+        "FirstName": "Akash",
+        "LastName": "",
+        "Place": "Kolkata"
+    }
+]
